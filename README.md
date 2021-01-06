@@ -1,2 +1,2 @@
 # To-Do-App
-Creating a To-Do app using JavaScript
+Creating a To-Do app using HTML, CSS and JavaScript. A personal project
